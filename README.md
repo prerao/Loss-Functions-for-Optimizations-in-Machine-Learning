@@ -1,4 +1,4 @@
-# Optimization_In_Machine_Learning
+# Loss Functions
 Implemented the following Loss Functions in Python:
 1. Logistic Loss
 2. Hinge Loss
